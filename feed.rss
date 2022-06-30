@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>PhiloClasses</title><link>https://www.tuxdomain.net/index.html</link>
-<description>Suppléments au cours de philosophie</description><language>en</language>
-<lastBuildDate>Tue, 07 Jun 2022 10:18:30 +0300</lastBuildDate>
-<pubDate>Tue, 07 Jun 2022 10:18:30 +0300</pubDate>
-<atom:link href="https://www.tuxdomain.net/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>PhiloClasses</title><link>https://PhiloClasses.github.io/index.html</link>
+<description>Suppléments au cours de philosophie et HLP.</description><language>en</language>
+<lastBuildDate>Thu, 30 Jun 2022 14:05:35 +0300</lastBuildDate>
+<pubDate>Thu, 30 Jun 2022 14:05:35 +0300</pubDate>
+<atom:link href="https://PhiloClasses.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Textes HLP
+</title><description><![CDATA[
+
+<h2>Première</h2>
+
+<h3>L'art de la parole</h3>
+
+<ul>
+<li>📄 <a href="./Hom%C3%A8re-L_Odyss%C3%A9e-Chant_2-P%C3%A9n%C3%A9lope.pdf">Homère, <em>L'Odyssée</em>, Chant 2.</a></li>
+<li>📄 <a href="./Gorgias-%C3%89loge_H%C3%A9l%C3%A8ne.pdf">Gorgias, <em>Éloge d’Hélène</em>.</a>
+
+<ul>
+<li>📄 <a href="./Gorgias-%C3%89loge_H%C3%A9l%C3%A8ne-Corrig%C3%A92.pdf">Corrigé : Gorgias, <em>Éloge d’Hélène</em>.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./Aristote-Les_genres_du_discours.pdf">Aristote, Les genres du discours</a></li>
+<li>📄 <a href="./Descartes_QCM.pdf">Descartes, <em>Discours de la méthode</em>.</a>
+
+<ul>
+<li>📄 <a href="./Descartes_QCM-Corrig%C3%A9.pdf">Corrigé : QCM Descartes, <em>Discours de la méthode</em>.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./Pascal-Trait%C3%A9_du_vide-Pr%C3%A9face-La_science_et_la_religion.pdf">Pascal, <em>Préface pour un Traité du vide.</em></a></li>
+<li>📄 <a href="./La_Fontaine-Le_droit_du_plus_fort.pdf">La Fontaine, <em>Fables.</em></a></li>
+<li>📄 <a href="./Sujets_0-HLP-Platon.pdf">Platon, <em>Gorgias</em>.</a>
+
+<ul>
+<li>📄 <a href="./Platon-Gorgias-Sujet_0-Corrig%C3%A9_philo.pdf">Corrigé : Platon, <em>Gorgias</em>.</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Les représentations du monde</h3>
+
+<ul>
+<li>📄 <a href="./Copernic-Des_r%C3%A9volutions_des_orbites_c%C3%A9lestes.pdf">Copernic, <em>Des Révolutions des orbes célestes</em>,livre I, chap. 8.</a></li>
+<li>📄 <a href="./Koyr%C3%A9-Du_monde_clos_%C3%A0_l_univers_infini.pdf">Koyré, <em>Du monde clos à l’univers infini.</em></a>
+
+<ul>
+<li>📄 <a href="./Koyr%C3%A9-Du_monde_clos_%C3%A0_l_univers_infini-Corrig%C3%A9-Page2.pdf">Corrigé : Koyré, <em>Du monde clos à l’univers infini</em>.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./L%C3%A9vi-Strauss_Race&amp;Histoire.pdf">Cl. Lévi-Strauss, <em>Race et Histoire.</em></a>
+
+<ul>
+<li>📄 <a href="./L%C3%A9vi-Strauss_Race&amp;Histoire-R%C3%A9ponses.pdf">Corrigé : Cl. Lévi-Strauss, <em>Race et Histoire</em>.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./Leo_Strauss-Droit_naturel_et_histoire.pdf">Leo Strauss, <em>Droit naturel et Histoire.</em></a>
+
+<ul>
+<li>📄 <a href="./Leo_Strauss-Droit_naturel_et_histoire-Corrig%C3%A9-r%C3%A9ponses.pdf">Corrigé : Leo Strauss, <em>Droit naturel et Histoire</em>.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./Descartes-La_raison_est_le_propre_de_l%E2%80%99homme.pdf">Descartes, <em>Discours de la méthode</em>, 5<sup>e</sup> partie.</a></li>
+<li>📄 <a href="./Montesquieu-Esprit%20des%20lois.pdf">Montesquieu, <em>De l’Esprit des lois</em>, 1<sup>re</sup> partie, livre I, chap. III.</a>
+
+<ul>
+<li>📄 <a href="./Montesquieu-Esprit%20des%20lois-corrig%C3%A9_r%C3%A9ponses.pdf">Corrigé : Montesquieu, <em>De l’Esprit des lois</em>, 1<sup>re</sup> partie, livre I, chap. III.</a></li>
+</ul>
+</li>
+<li>📄 <a href="./Linn%C3%A9-Buffon-Bonnet.pdf">Linné, Buffon, Bonnet : l’histoire naturelle au 18<sup>e</sup> siècle.</a></li>
+</ul>
+
+
+<p>Tags: <a href='tag_hlp.html'>hlp</a>, <a href='tag_textes.html'>textes</a>, <a href='tag_Homère.html'>Homère</a>, <a href='tag_Gorgias.html'>Gorgias</a>, <a href='tag_Aristote.html'>Aristote</a>, <a href='tag_Descartes.html'>Descartes</a>, <a href='tag_Pascal.html'>Pascal</a>, <a href='tag_La-Fontaine.html'>La-Fontaine</a>, <a href='tag_Platon.html'>Platon</a>, <a href='tag_Copernic.html'>Copernic</a>, <a href='tag_Koyré.html'>Koyré</a>, <a href='tag_Lévi-Strauss.html'>Lévi-Strauss</a>, <a href='tag_Strauss.html'>Strauss</a>, <a href='tag_Montesquieu.html'>Montesquieu</a>, <a href='tag_Linné.html'>Linné</a>, <a href='tag_Buffon.html'>Buffon</a>, <a href='tag_Bonnet.html'>Bonnet</a></p>
+
+<!-- text end -->
+]]></description><link>https://PhiloClasses.github.io/textes-hlp28212.html</link>
+<guid>https://PhiloClasses.github.io/./textes-hlp28212.html</guid>
+<dc:creator>Prof</dc:creator>
+<pubDate>Sun, 13 Mar 2022 18:07:36 +0300</pubDate></item>
 <item><title>
 Diaporamas de cours de philosophie
 </title><description><![CDATA[
@@ -99,84 +173,12 @@ Diaporamas de cours de philosophie
 <p>📄 <a href="./La_morale_et_la_politique-Techno.pdf">Télécharger en PDF</a></p>
 
 <p>Tags: <a href='tag_cours.html'>cours</a>, <a href='tag_diaporamas.html'>diaporamas</a>, <a href='tag_philosophie.html'>philosophie</a></p>
+
 <!-- text end -->
-]]></description><link>https://www.tuxdomain.net/diaporamas-de-cours-de-philosophie.html</link>
-<guid>https://www.tuxdomain.net/./diaporamas-de-cours-de-philosophie.html</guid>
+]]></description><link>https://PhiloClasses.github.io/diaporamas-de-cours-de-philosophie.html</link>
+<guid>https://PhiloClasses.github.io/./diaporamas-de-cours-de-philosophie.html</guid>
 <dc:creator>Prof</dc:creator>
-<pubDate>Mon, 16 May 2022 17:47:43 +0300</pubDate></item>
-<item><title>
-Textes HLP
-</title><description><![CDATA[
-
-<h2>Première</h2>
-
-<h3>L'art de la parole</h3>
-
-<ul>
-<li>📄 <a href="./Hom%C3%A8re-L_Odyss%C3%A9e-Chant_2-P%C3%A9n%C3%A9lope.pdf">Homère, <em>L'Odyssée</em>, Chant 2.</a></li>
-<li>📄 <a href="./Gorgias-%C3%89loge_H%C3%A9l%C3%A8ne.pdf">Gorgias, <em>Éloge d’Hélène</em>.</a>
-
-<ul>
-<li>📄 <a href="./Gorgias-%C3%89loge_H%C3%A9l%C3%A8ne-Corrig%C3%A92.pdf">Corrigé : Gorgias, <em>Éloge d’Hélène</em>.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./Aristote-Les_genres_du_discours.pdf">Aristote, Les genres du discours</a></li>
-<li>📄 <a href="./Descartes_QCM.pdf">Descartes, <em>Discours de la méthode</em>.</a>
-
-<ul>
-<li>📄 <a href="./Descartes_QCM-Corrig%C3%A9.pdf">Corrigé : QCM Descartes, <em>Discours de la méthode</em>.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./Pascal-Trait%C3%A9_du_vide-Pr%C3%A9face-La_science_et_la_religion.pdf">Pascal, <em>Préface pour un Traité du vide.</em></a></li>
-<li>📄 <a href="./La_Fontaine-Le_droit_du_plus_fort.pdf">La Fontaine, <em>Fables.</em></a></li>
-<li>📄 <a href="./Sujets_0-HLP-Platon.pdf">Platon, <em>Gorgias</em>.</a>
-
-<ul>
-<li>📄 <a href="./Platon-Gorgias-Sujet_0-Corrig%C3%A9_philo.pdf">Corrigé : Platon, <em>Gorgias</em>.</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Les représentations du monde</h3>
-
-<ul>
-<li>📄 <a href="./Copernic-Des_r%C3%A9volutions_des_orbites_c%C3%A9lestes.pdf">Copernic, <em>Des Révolutions des orbes célestes</em>,livre I, chap. 8.</a></li>
-<li>📄 <a href="./Koyr%C3%A9-Du_monde_clos_%C3%A0_l_univers_infini.pdf">Koyré, <em>Du monde clos à l’univers infini.</em></a>
-
-<ul>
-<li>📄 <a href="./Koyr%C3%A9-Du_monde_clos_%C3%A0_l_univers_infini-Corrig%C3%A9-Page2.pdf">Corrigé : Koyré, <em>Du monde clos à l’univers infini</em>.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./L%C3%A9vi-Strauss_Race&amp;Histoire.pdf">Cl. Lévi-Strauss, <em>Race et Histoire.</em></a>
-
-<ul>
-<li>📄 <a href="./L%C3%A9vi-Strauss_Race&amp;Histoire-R%C3%A9ponses.pdf">Corrigé : Cl. Lévi-Strauss, <em>Race et Histoire</em>.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./Leo_Strauss-Droit_naturel_et_histoire.pdf">Leo Strauss, <em>Droit naturel et Histoire.</em></a>
-
-<ul>
-<li>📄 <a href="./Leo_Strauss-Droit_naturel_et_histoire-Corrig%C3%A9-r%C3%A9ponses.pdf">Corrigé : Leo Strauss, <em>Droit naturel et Histoire</em>.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./Descartes-La_raison_est_le_propre_de_l%E2%80%99homme.pdf">Descartes, <em>Discours de la méthode</em>, 5<sup>e</sup> partie.</a></li>
-<li>📄 <a href="./Montesquieu-Esprit%20des%20lois.pdf">Montesquieu, <em>De l’Esprit des lois</em>, 1<sup>re</sup> partie, livre I, chap. III.</a>
-
-<ul>
-<li>📄 <a href="./Montesquieu-Esprit%20des%20lois-corrig%C3%A9_r%C3%A9ponses.pdf">Corrigé : Montesquieu, <em>De l’Esprit des lois</em>, 1<sup>re</sup> partie, livre I, chap. III.</a></li>
-</ul>
-</li>
-<li>📄 <a href="./Linn%C3%A9-Buffon-Bonnet.pdf">Linné, Buffon, Bonnet : l’histoire naturelle au 18<sup>e</sup> siècle.</a></li>
-</ul>
-
-
-<p>Tags: <a href='tag_hlp.html'>hlp</a>, <a href='tag_textes.html'>textes</a>, <a href='tag_Homère.html'>Homère</a>, <a href='tag_Gorgias.html'>Gorgias</a>, <a href='tag_Aristote.html'>Aristote</a>, <a href='tag_Descartes.html'>Descartes</a>, <a href='tag_Pascal.html'>Pascal</a>, <a href='tag_La-Fontaine.html'>La-Fontaine</a>, <a href='tag_Platon.html'>Platon</a>, <a href='tag_Copernic.html'>Copernic</a>, <a href='tag_Koyré.html'>Koyré</a>, <a href='tag_Lévi-Strauss.html'>Lévi-Strauss</a>, <a href='tag_Strauss.html'>Strauss</a>, <a href='tag_Montesquieu.html'>Montesquieu</a>, <a href='tag_Linné.html'>Linné</a>, <a href='tag_Buffon.html'>Buffon</a>, <a href='tag_Bonnet.html'>Bonnet</a></p>
-<!-- text end -->
-]]></description><link>https://www.tuxdomain.net/textes-hlp28212.html</link>
-<guid>https://www.tuxdomain.net/./textes-hlp28212.html</guid>
-<dc:creator>Prof</dc:creator>
-<pubDate>Sun, 13 Mar 2022 18:07:36 +0300</pubDate></item>
+<pubDate>Wed, 19 Jan 2022 14:18:53 +0300</pubDate></item>
 <item><title>
 Textes de philosophie
 </title><description><![CDATA[
@@ -262,9 +264,10 @@ Textes de philosophie
 
 
 <p>Tags: <a href='tag_diaporamas.html'>diaporamas</a>, <a href='tag_philosophie.html'>philosophie</a>, <a href='tag_textes.html'>textes</a>, <a href='tag_Alain.html'>Alain</a>, <a href='tag_Aristote.html'>Aristote</a>, <a href='tag_Épicure.html'>Épicure</a>, <a href='tag_Pascal.html'>Pascal</a>, <a href='tag_Hume.html'>Hume</a>, <a href='tag_Husserl.html'>Husserl</a>, <a href='tag_Hegel.html'>Hegel</a>, <a href='tag_Marx.html'>Marx</a>, <a href='tag_Tocqueville.html'>Tocqueville</a></p>
+
 <!-- text end -->
-]]></description><link>https://www.tuxdomain.net/textes-de-philosophie.html</link>
-<guid>https://www.tuxdomain.net/./textes-de-philosophie.html</guid>
+]]></description><link>https://PhiloClasses.github.io/textes-de-philosophie.html</link>
+<guid>https://PhiloClasses.github.io/./textes-de-philosophie.html</guid>
 <dc:creator>Prof</dc:creator>
 <pubDate>Sun, 24 Oct 2021 18:12:06 +0300</pubDate></item>
 <item><title>
@@ -309,9 +312,10 @@ Humanités, Littérature, Philosophie.
 
 <p>Tags: <a href='tag_hlp.html'>hlp</a>, <a href='tag_diaporamas.html'>diaporamas</a>, <a href='tag_cours.html'>cours</a></p>
 
+
 <!-- text end -->
-]]></description><link>https://www.tuxdomain.net/humanites-litterature-philosophie6878.html</link>
-<guid>https://www.tuxdomain.net/./humanites-litterature-philosophie6878.html</guid>
+]]></description><link>https://PhiloClasses.github.io/humanites-litterature-philosophie6878.html</link>
+<guid>https://PhiloClasses.github.io/./humanites-litterature-philosophie6878.html</guid>
 <dc:creator>Prof</dc:creator>
 <pubDate>Wed, 16 Jun 2021 08:55:39 +0300</pubDate></item>
 <item><title>
@@ -388,9 +392,10 @@ Consignes pour l’étude de textes
 
 
 
+
 <!-- text end -->
-]]></description><link>https://www.tuxdomain.net/consignes-pour-letude-de-textes.html</link>
-<guid>https://www.tuxdomain.net/./consignes-pour-letude-de-textes.html</guid>
+]]></description><link>https://PhiloClasses.github.io/consignes-pour-letude-de-textes.html</link>
+<guid>https://PhiloClasses.github.io/./consignes-pour-letude-de-textes.html</guid>
 <dc:creator>Prof</dc:creator>
 <pubDate>Wed, 16 Jun 2021 08:55:03 +0300</pubDate></item>
 <item><title>
@@ -419,9 +424,10 @@ Articulations de Textes
 
 <p>Tags: <a href='tag_textes.html'>textes</a>, <a href='tag_philosophie.html'>philosophie</a>, <a href='tag_consignes.html'>consignes</a></p>
 
+
 <!-- text end -->
-]]></description><link>https://www.tuxdomain.net/articulations-de-textes8741.html</link>
-<guid>https://www.tuxdomain.net/./articulations-de-textes8741.html</guid>
+]]></description><link>https://PhiloClasses.github.io/articulations-de-textes8741.html</link>
+<guid>https://PhiloClasses.github.io/./articulations-de-textes8741.html</guid>
 <dc:creator>Prof</dc:creator>
 <pubDate>Wed, 16 Jun 2021 08:54:10 +0300</pubDate></item>
 </channel></rss>
