@@ -2,17 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://philoclasses.github.io/about/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://philoclasses.github.io/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/aristote/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/post/philosophie-terminale/aristote_philosophie/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/post/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/categories/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/philosophie/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/categories/philosophie/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/science/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/textes/</loc>
+    <lastmod>2022-09-03T15:59:41+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/alphabet/</loc>
+    <lastmod>2022-09-03T15:40:54+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/post/alphabet_grec/</loc>
+    <lastmod>2022-09-03T15:40:54+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/tags/hlp/</loc>
+    <lastmod>2022-09-03T15:40:54+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/categories/hlp/</loc>
+    <lastmod>2022-09-03T15:40:54+03:00</lastmod>
+  </url><url>
+    <loc>https://philoclasses.github.io/about/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/tags/cours/</loc>
     <lastmod>2022-07-23T13:22:57+04:00</lastmod>
@@ -20,34 +53,16 @@
     <loc>https://philoclasses.github.io/tags/diaporamas/</loc>
     <lastmod>2022-07-23T13:22:57+04:00</lastmod>
   </url><url>
-    <loc>https://philoclasses.github.io/tags/hlp/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
-  </url><url>
-    <loc>https://philoclasses.github.io/categories/hlp/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
-  </url><url>
     <loc>https://philoclasses.github.io/post/hlp-premi%C3%A8res-terminale/humanites-litterature-philosophie/</loc>
     <lastmod>2022-07-23T13:22:57+04:00</lastmod>
   </url><url>
-    <loc>https://philoclasses.github.io/tags/</loc>
-    <lastmod>2022-07-23T13:22:57+04:00</lastmod>
-  </url><url>
     <loc>https://philoclasses.github.io/post/philosophie-terminale/diaporamas-de-cours-de-philosophie/</loc>
-    <lastmod>2022-07-23T12:54:26+04:00</lastmod>
-  </url><url>
-    <loc>https://philoclasses.github.io/tags/philosophie/</loc>
-    <lastmod>2022-07-23T12:54:26+04:00</lastmod>
-  </url><url>
-    <loc>https://philoclasses.github.io/categories/philosophie/</loc>
     <lastmod>2022-07-23T12:54:26+04:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/tags/consignes/</loc>
     <lastmod>2022-07-23T09:17:11+04:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/post/philosophie-terminale/consignes_%C3%A9tude_de_texte/</loc>
-    <lastmod>2022-07-23T09:17:11+04:00</lastmod>
-  </url><url>
-    <loc>https://philoclasses.github.io/tags/textes/</loc>
     <lastmod>2022-07-23T09:17:11+04:00</lastmod>
   </url><url>
     <loc>https://philoclasses.github.io/post/philosophie-terminale/articulations_de_textes/</loc>
