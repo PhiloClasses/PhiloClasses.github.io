@@ -2,14 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="https://philoclasses.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>science on PhiloClasses</title>
-    <link>https://philoclasses.github.io/tags/science/</link>
-    <description>Recent content in science on PhiloClasses</description>
+    <title>Leibniz on PhiloClasses</title>
+    <link>https://philoclasses.github.io/tags/leibniz/</link>
+    <description>Recent content in Leibniz on PhiloClasses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>CC by-nc-nd</copyright>
     <lastBuildDate>Sun, 30 Oct 2022 08:30:23 +0300</lastBuildDate>
-    <atom:link href="https://philoclasses.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://philoclasses.github.io/tags/leibniz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leibniz : Raison et expérience</title>
       <link>https://philoclasses.github.io/post/philosophie-terminale/leibniz_raison-experience/</link>
