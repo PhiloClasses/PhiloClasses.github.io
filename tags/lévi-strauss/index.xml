@@ -2,14 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="https://philoclasses.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on PhiloClasses</title>
-    <link>https://philoclasses.github.io/post/</link>
-    <description>Recent content in Articles on PhiloClasses</description>
+    <title>Lévi-Strauss on PhiloClasses</title>
+    <link>https://philoclasses.github.io/tags/l%C3%A9vi-strauss/</link>
+    <description>Recent content in Lévi-Strauss on PhiloClasses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>CC by-nc-nd</copyright>
     <lastBuildDate>Sun, 05 Mar 2023 14:28:59 +0300</lastBuildDate>
-    <atom:link href="https://philoclasses.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://philoclasses.github.io/tags/l%C3%A9vi-strauss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Représentations du monde : textes et exercices.</title>
       <link>https://philoclasses.github.io/post/hlp-premi%C3%A8res-terminale/repr%C3%A9sentations_du_monde-textes/</link>
