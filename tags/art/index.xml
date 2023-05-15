@@ -2,13 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="https://philoclasses.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on PhiloClasses</title>
-    <link>https://philoclasses.github.io/series/</link>
-    <description>Recent content in Series on PhiloClasses</description>
+    <title>art on PhiloClasses</title>
+    <link>https://philoclasses.github.io/tags/art/</link>
+    <description>Recent content in art on PhiloClasses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>CC by-nc-nd</copyright>
-    <atom:link href="https://philoclasses.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 16:44:56 +0300</lastBuildDate>
+    <atom:link href="https://philoclasses.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alain : Artiste et Artisan</title>
       <link>https://philoclasses.github.io/post/philosophie-terminale/alain-artiste-et-artisan/</link>
