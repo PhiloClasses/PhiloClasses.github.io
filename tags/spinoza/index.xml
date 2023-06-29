@@ -2,14 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="https://philoclasses.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>art on PhiloClasses</title>
-    <link>https://philoclasses.github.io/tags/art/</link>
-    <description>Recent content in art on PhiloClasses</description>
+    <title>Spinoza on PhiloClasses</title>
+    <link>https://philoclasses.github.io/tags/spinoza/</link>
+    <description>Recent content in Spinoza on PhiloClasses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>CC by-nc-nd</copyright>
-    <lastBuildDate>Mon, 15 May 2023 16:44:56 +0300</lastBuildDate>
-    <atom:link href="https://philoclasses.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 08:34:35 +0300</lastBuildDate>
+    <atom:link href="https://philoclasses.github.io/tags/spinoza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spinoza : Indépendance de la foi et de la philosophie</title>
       <link>https://philoclasses.github.io/post/philosophie-terminale/spinoza-foi-philosophie/</link>
